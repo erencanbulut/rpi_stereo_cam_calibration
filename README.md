@@ -84,7 +84,7 @@ A CSV file logs the distances.
 Estimate depth with: 
 
 $$
-\text{Depth} = \frac{\text{focalLength} \times \text{baseline}}{\text{disparity}}
+\text{depth} = \frac{\text{focalLength} \times \text{baseline}}{\text{disparity}}
 $$
 
 Where:
